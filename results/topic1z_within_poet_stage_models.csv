@@ -1,0 +1,67 @@
+﻿model,axis,term,works,poets,slope,ci_low,ci_high,boot_p,holm_p
+"stage (capital, destination vs elsewhere)",court_institution,destination vs elsewhere,687,18,-0.022228170261488718,-0.14855242270012112,0.1072143129072401,0.67,1.0
+"stage (capital, destination vs elsewhere)",court_institution,capital vs elsewhere,687,18,0.11176960360380912,-0.09916112723414611,0.35658701724008873,0.208,0.624
+"stage (capital, destination vs elsewhere)",landscape,destination vs elsewhere,682,18,-0.02117102573075688,-0.15879581742996376,0.14270036117468948,0.765,1.0
+"stage (capital, destination vs elsewhere)",landscape,capital vs elsewhere,682,18,-0.1692006393173091,-0.353070776759007,-0.07154331030529786,0.004,0.02
+"stage (capital, destination vs elsewhere)",temple_reclusion,destination vs elsewhere,685,18,0.0366207860719431,-0.10141729532952591,0.1495549552727909,0.598,1.0
+"stage (capital, destination vs elsewhere)",temple_reclusion,capital vs elsewhere,685,18,0.01156522368868452,-0.12320576120247177,0.11465344378227063,0.919,1.0
+"stage (capital, destination vs elsewhere)",route_displacement,destination vs elsewhere,684,18,-0.16484912808925803,-0.3038088281944701,-0.05259793558751094,0.002,0.01
+"stage (capital, destination vs elsewhere)",route_displacement,capital vs elsewhere,684,18,-0.005718208806167191,-0.38805186999502894,0.07776252527563224,0.71,1.0
+"stage (capital, destination vs elsewhere)",time_void,destination vs elsewhere,645,18,0.003493610373276921,-0.16465413510834565,0.14980771511210914,0.984,1.0
+"stage (capital, destination vs elsewhere)",time_void,capital vs elsewhere,645,18,-0.12500704126777631,-0.4683964665804691,0.025859814355841775,0.106,0.424
+"stage (capital, destination vs elsewhere)",n_axes,destination vs elsewhere,592,18,-0.1351519703515439,-0.49410471210062623,0.1082615896107149,0.328,
+"stage (capital, destination vs elsewhere)",n_axes,capital vs elsewhere,592,18,-0.2618136915935451,-1.095369952408801,0.035229171902094375,0.092,
+"destination vs elsewhere, poets seen in both",court_institution,destination vs elsewhere,574,14,-0.007918668088806483,-0.13036637552454253,0.11331833936001377,0.851,1.0
+"destination vs elsewhere, poets seen in both",landscape,destination vs elsewhere,574,14,-0.015592544905614814,-0.1495032768407932,0.15478072783646096,0.844,1.0
+"destination vs elsewhere, poets seen in both",temple_reclusion,destination vs elsewhere,573,14,0.03628065378580037,-0.10141672449791878,0.15979898909864856,0.574,1.0
+"destination vs elsewhere, poets seen in both",route_displacement,destination vs elsewhere,572,14,-0.1481282104949181,-0.280120291600271,-0.0472014503904894,0.001,0.005
+"destination vs elsewhere, poets seen in both",time_void,destination vs elsewhere,541,14,0.004612973298707215,-0.1675799518951034,0.15411939039834943,0.973,1.0
+"destination vs elsewhere, poets seen in both",n_axes,destination vs elsewhere,497,14,-0.09173497811601455,-0.42377855594400665,0.13327392575779387,0.452,
+"time only, poets seen in both",court_institution,per year in exile,574,14,-0.03630037774306303,-0.05586889514567959,0.021353962569773982,0.1080773606370876,0.3242320819112628
+"time only, poets seen in both",court_institution,precise vs annual-proxy date,574,14,0.20112161677890442,0.042080844278445065,0.8891014562446138,0.0011376564277588168,0.00341296928327645
+"time only, poets seen in both",landscape,per year in exile,574,14,-0.03143993779347301,-0.08763917499659876,-0.018824419414532428,0.0,0.0
+"time only, poets seen in both",landscape,precise vs annual-proxy date,574,14,-0.12010318908595165,-0.7102312230884789,0.02141150021759664,0.10448608745031232,0.20897217490062464
+"time only, poets seen in both",temple_reclusion,per year in exile,573,14,-0.006953064895632697,-0.0493068942921587,0.04909257262791896,0.6651660101294317,0.7389830508474576
+"time only, poets seen in both",temple_reclusion,precise vs annual-proxy date,573,14,-0.059037478284970364,-0.25759689465820085,-0.024239262459856328,0.0,0.0
+"time only, poets seen in both",route_displacement,per year in exile,572,14,-0.03869830530305251,-0.09366395192945287,-0.02398154046047025,0.0,0.0
+"time only, poets seen in both",route_displacement,precise vs annual-proxy date,572,14,0.06421297999228351,-0.019353016050862898,0.6625420423579859,0.24103139013452915,0.24103139013452915
+"time only, poets seen in both",time_void,per year in exile,541,14,-0.012926694236383202,-0.0225658117498345,0.03838911227672556,0.3694915254237288,0.7389830508474576
+"time only, poets seen in both",time_void,precise vs annual-proxy date,541,14,0.2698505728030343,0.16275933945475698,0.5780649149252217,0.0,0.0
+"time only, poets seen in both",n_axes,per year in exile,497,14,-0.11649870306041983,-0.17864057707508701,-0.07120966216262727,0.0,
+"time only, poets seen in both",n_axes,precise vs annual-proxy date,497,14,0.41390975364093213,0.27315356595465246,1.1720688274189957,0.0,
+"time + destination, poets seen in both",court_institution,per year in exile,574,14,-0.03658248403347304,-0.06334318983594592,0.019401098271390325,0.10167597765363129,0.30502793296089387
+"time + destination, poets seen in both",court_institution,destination vs elsewhere,574,14,0.012185796112247446,-0.14922216120346135,0.15370647239067317,0.888268156424581,1.0
+"time + destination, poets seen in both",court_institution,precise vs annual-proxy date,574,14,0.2007133305260321,0.04158351531454519,0.9305232730529417,0.0033519553072625698,0.01005586592178771
+"time + destination, poets seen in both",landscape,per year in exile,574,14,-0.0314687868708385,-0.086276648430955,-0.01265163312013716,0.0,0.0
+"time + destination, poets seen in both",landscape,destination vs elsewhere,574,14,0.0014577650384482235,-0.10938552205710761,0.12461238428257847,0.9559322033898305,1.0
+"time + destination, poets seen in both",landscape,precise vs annual-proxy date,574,14,-0.1201689957613973,-0.7210725781367295,0.020707731233956382,0.10621468926553672,0.21242937853107344
+"time + destination, poets seen in both",temple_reclusion,per year in exile,573,14,-0.007765960894336103,-0.052503200965899874,0.048426641106520056,0.5969300739056282,0.704954954954955
+"time + destination, poets seen in both",temple_reclusion,destination vs elsewhere,573,14,0.04085025422777965,-0.09190126209663137,0.16008103549195243,0.6924388857305287,1.0
+"time + destination, poets seen in both",temple_reclusion,precise vs annual-proxy date,573,14,-0.06066177145771379,-0.26261307521429095,-0.026704008422227924,0.0,0.0
+"time + destination, poets seen in both",route_displacement,per year in exile,572,14,-0.03672476274721434,-0.0751661077945074,-0.012056042922907706,0.0011337868480725624,0.0045351473922902496
+"time + destination, poets seen in both",route_displacement,destination vs elsewhere,572,14,-0.13620634348688904,-0.2616597234212006,-0.05920492662650799,0.0,0.0
+"time + destination, poets seen in both",route_displacement,precise vs annual-proxy date,572,14,0.07150866436990196,-0.026171631183987135,0.74604998148391,0.31179138321995464,0.31179138321995464
+"time + destination, poets seen in both",time_void,per year in exile,541,14,-0.013215315722855864,-0.03011596241308519,0.03625345825088933,0.3524774774774775,0.704954954954955
+"time + destination, poets seen in both",time_void,destination vs elsewhere,541,14,0.010770043646786576,-0.1588394787818959,0.16320062886165707,0.9493243243243243,1.0
+"time + destination, poets seen in both",time_void,precise vs annual-proxy date,541,14,0.26949902643875867,0.16507540040782898,0.5998207965599875,0.0,0.0
+"time + destination, poets seen in both",n_axes,per year in exile,497,14,-0.11574930740322024,-0.1953269199607571,-0.05562657334337629,0.0034110289937464467,
+"time + destination, poets seen in both",n_axes,destination vs elsewhere,497,14,-0.03208768478095825,-0.37100200113831505,0.17167317854968314,0.6924388857305287,
+"time + destination, poets seen in both",n_axes,precise vs annual-proxy date,497,14,0.4152644159628023,0.26392316585116266,1.2721991647964552,0.0,
+"time only, destination works only",court_institution,per year in exile,413,14,-0.05769164679940597,-0.08148450272973509,0.028655770753833913,0.1527231892195396,0.6108927568781584
+"time only, destination works only",court_institution,precise vs annual-proxy date,413,14,0.21827205022716203,0.018053037393882844,1.0179287296743884,0.003368893879842785,0.010106681639528355
+"time only, destination works only",landscape,per year in exile,407,14,-0.019063766538740274,-0.08753555020783199,0.011384601908153743,0.21841052029731275,0.6552315608919382
+"time only, destination works only",landscape,precise vs annual-proxy date,407,14,-0.13119554463621302,-0.8369620565484465,0.027142735603684996,0.1623785020011435,0.324757004002287
+"time only, destination works only",temple_reclusion,per year in exile,409,14,-0.019905690182358052,-0.05217171876478565,0.03649478438702514,0.5204081632653061,0.6552315608919382
+"time only, destination works only",temple_reclusion,precise vs annual-proxy date,409,14,-0.058052750144490343,-0.2398413721006977,-0.03836085816121847,0.0,0.0
+"time only, destination works only",route_displacement,per year in exile,406,14,-0.04032055511727334,-0.06252773586580278,-0.003518756249174655,0.02288329519450801,0.11441647597254004
+"time only, destination works only",route_displacement,precise vs annual-proxy date,406,14,0.08231364190752322,-0.031068786525852796,0.7279941638011843,0.391304347826087,0.391304347826087
+"time only, destination works only",time_void,per year in exile,384,14,-0.02012354974930242,-0.03451035651687879,0.033917620165321766,0.27128263337116915,0.6552315608919382
+"time only, destination works only",time_void,precise vs annual-proxy date,384,14,0.2747418650271254,0.16273714493675967,0.6541323164487803,0.0,0.0
+"time only, destination works only",n_axes,per year in exile,354,14,-0.162827615618333,-0.19133387041086417,-0.08101254733235341,0.0,
+"time only, destination works only",n_axes,precise vs annual-proxy date,354,14,0.4691890137066211,0.2735079966125121,1.2660260098975715,0.0,
+"destination vs elsewhere, crosswalk-verified destinations",court_institution,destination vs elsewhere,464,7,0.004116935296805658,-0.11675711004136104,0.1549296316132712,1.0,1.0
+"destination vs elsewhere, crosswalk-verified destinations",landscape,destination vs elsewhere,462,7,-0.03142955426056885,-0.19239295597386197,0.16277491403175953,0.767,1.0
+"destination vs elsewhere, crosswalk-verified destinations",temple_reclusion,destination vs elsewhere,462,7,0.05298422915626901,-0.1282106969071384,0.1974678281327638,0.535,1.0
+"destination vs elsewhere, crosswalk-verified destinations",route_displacement,destination vs elsewhere,460,7,-0.11483405509813104,-0.2597210463287748,-0.016232221506011262,0.017,0.085
+"destination vs elsewhere, crosswalk-verified destinations",time_void,destination vs elsewhere,433,7,0.03887873118249513,-0.1586334593473678,0.24159146284917007,0.728,1.0
+"destination vs elsewhere, crosswalk-verified destinations",n_axes,destination vs elsewhere,399,7,-0.024681285506937104,-0.4531254785478828,0.2265996350573428,0.82,

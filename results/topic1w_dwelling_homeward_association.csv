@@ -1,0 +1,4 @@
+﻿family,contrast,term,outcome,works,poets,mean,slope,ci_low,ci_high,boot_p,bootstrap_valid,bootstrap_attempted,controls
+ambivalence,written at the seat,dwelling word in the same poem,lex_homeward,437,13,0.2585812356979405,0.020433737520619923,-0.04406544562517822,0.0819449045620797,0.4527736131934033,2000,2000,loglen
+ambivalence,written elsewhere,dwelling word in the same poem,lex_homeward,215,17,0.21395348837209302,0.1374322851040629,-0.02091207065831452,0.2664238569367275,0.08495752123938032,2000,2000,loglen
+ambivalence,all exile-period poems,dwelling word in the same poem,lex_homeward,1201,25,0.253955037468776,0.022593496383376748,-0.03162755091821792,0.08533739373204358,0.44677661169415295,2000,2000,loglen

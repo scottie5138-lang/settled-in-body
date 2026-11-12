@@ -1,0 +1,21 @@
+﻿episode,poet,db_destination_text,start_year,end_year,destination_codes,basis,note,capital,destination,elsewhere
+0,張九齡,荆州,737.0,740.0,CN421,crosswalk_name,荊州,3.0,15.0,2.0
+1,韓愈,潮州,819.0,819.0,CN4451,crosswalk_name,潮州,1.0,2.0,10.0
+4,柳宗元,永州,805.0,815.0,CN4311,crosswalk_name,永州,1.0,74.0,18.0
+9,李德裕,荊南／東都→潮州→崖州,846.0,849.0,CN4451|CN46,admin_code_inference,潮州 then 崖州 (Hainan),0.0,1.0,2.0
+19,高適,,758.0,760.0,,unmapped,DB destination text missing,1.0,0.0,0.0
+24,駱賓王,臨海,680.0,684.0,CN331082,admin_code_inference,臨海,0.0,1.0,4.0
+28,張說,岳州,715.0,717.0,CN4306,crosswalk_name,岳州,0.0,32.0,8.0
+32,宋之問,欽州／嶺南→桂州,710.0,712.0,CN4503|CN4507,admin_code_inference,桂州 (crosswalk) and 欽州 (inferred),0.0,5.0,33.0
+42,沈佺期,驩州,705.0,707.0,VN130101,admin_code_inference,"驩州; Vietnamese code not in crosswalk, site of most placed works",1.0,11.0,8.0
+43,白居易,江州,815.0,818.0,CN3604,crosswalk_name,江州,0.0,49.0,0.0
+44,白居易,江州,815.0,817.0,CN3604,crosswalk_name,江州,27.0,104.0,9.0
+45,元稹,江陵途中（文學地圖代碼 CN421）,810.0,810.0,CN421,crosswalk_name,江陵 (DB text gives CN421),7.0,24.0,27.0
+46,李白,夜郎,758.0,759.0,CN5203,admin_code_inference,夜郎 (珍州); pardoned before arrival,0.0,0.0,51.0
+59,劉長卿,干越亭／鄱水（文學地圖 CN361127）,759.0,759.0,,unmapped,"DB destination text names a waypoint (干越亭), not the exile seat",,,
+60,劉禹錫,朗州,805.0,814.0,CN4307,crosswalk_name,朗州,7.0,89.0,9.0
+65,王昌齡,龍標,749.0,749.0,CN431281,admin_code_inference,龍標 (today 洪江 黔城),0.0,0.0,14.0
+76,李紳,端州,824.0,825.0,CN441204,admin_code_inference,"端州, seat at 高要",0.0,6.0,1.0
+85,賈島,長江（遂州）,837.0,840.0,CN5109,admin_code_inference,"長江縣, 遂州",0.0,3.0,2.0
+89,唐彥謙,漢中,888.0,888.0,CN6107,crosswalk_name,漢中 (興元府),0.0,0.0,1.0
+90,韓偓,濮州,903.0,905.0,CN371726,admin_code_inference,"濮州, seat at 鄄城",0.0,1.0,36.0

@@ -1,0 +1,15 @@
+﻿outcome,poets,higher_at_seat,lower_at_seat,median_difference
+to_central_office,7,3,4,-0.013071895424836596
+to_local_office,7,5,1,0.056179775280898875
+to_religious_recluse,7,4,1,0.011204481792717089
+title_exchange,7,5,2,0.18102372034956304
+court_institution,7,5,2,0.021604938271604923
+lex_capital,7,3,3,0.0
+lex_homeward,7,4,3,0.03125
+lex_grief,7,2,4,-0.04417670682730923
+time_void,7,3,3,0.0
+lex_exile_self,7,5,2,0.0718954248366013
+lex_alien_south,7,5,2,0.0625
+lex_local_produce,7,4,2,0.026143790849673203
+lex_dwelling,7,7,0,0.04283801874163323
+dwelling_and_homeward,7,5,2,0.03125

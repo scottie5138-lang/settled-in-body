@@ -1,0 +1,12 @@
+{
+  "works": 1201,
+  "coverage": {
+    "with_year": 1051,
+    "with_coordinates": 685,
+    "with_episode": 1133,
+    "with_years_in_exile": 1051,
+    "persons": 25,
+    "episodes": 28
+  },
+  "multi_episode_persons_ge5_works": 3
+}

@@ -1,0 +1,20 @@
+{
+ "exchange titles, arrival-proxy year vs en route": {
+  "full": 0.3345842952795362,
+  "min": 0.1616500094163793,
+  "max": 0.4111137747851977,
+  "poet_at_min": "元稹",
+  "poet_at_max": "宋之問",
+  "without_bai_juyi": 0.3405925989609229
+ },
+ "exile self-naming, per year at the seat": {
+  "full": -0.03288944406462316,
+  "min": -0.040534273455782685,
+  "max": -0.024035836095717855,
+  "poet_at_min": "柳宗元",
+  "poet_at_max": "劉禹錫",
+  "without_bai_juyi": -0.03324395238378643
+ },
+ "exchange_titles": 258,
+ "he_only_exchange_titles": 24
+}

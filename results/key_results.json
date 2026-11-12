@@ -1,0 +1,117 @@
+{
+  "t1_effective_work_level": 1202,
+  "t1_axis_works": 1201,
+  "t1_effective_not_in_axes": [
+    "src_e1445c42b66ca63481f2"
+  ],
+  "t1_axes_not_effective": [],
+  "t1_axis_works_without_person": 0,
+  "t1_complete_works": 1027,
+  "t1_share_two_or_more": 0.7867575462512172,
+  "t1_mean_axes_present": 2.356377799415774,
+  "t1_persons_with_axis_works": 24,
+  "t1_top5_share_complete": 0.5978578383641675,
+  "t1_blind50": {
+    "axis": "ALL",
+    "positions": 250,
+    "model_valued": 247,
+    "agree": 247,
+    "agreement": 1.0,
+    "wilson_low": 0.984685155891208,
+    "clopper_pearson_low": 0.9851762353944038,
+    "cohen_kappa": 1.0,
+    "human_present_rate": 0.492
+  },
+  "t1_targeted_positions": 309,
+  "t1_targeted_model_valued_agreement": 0.9566787003610109,
+  "t1_targeted_kappa": 0.9134194623879975,
+  "t1_medium20": {
+    "positions": 20,
+    "first_agrees_human": 11,
+    "second_agrees_human": 12,
+    "models_disagree": 13
+  },
+  "t2_tang_funnel": {
+    "source_records": 16701,
+    "accepted_binding": 11885,
+    "effective": 1202,
+    "precise": 325,
+    "proxy": 849,
+    "effective_neither_flag": 28
+  },
+  "t2_person_sum_effective": 1201,
+  "t2_person_sum_proxy": 848,
+  "t2_naive_exile_poet_corpus": 10142,
+  "t2_inflation_naive_over_effective": 8.437603993344426,
+  "t2_naive_all_172_bound": 11885,
+  "t2_persons_with_effective": 25,
+  "t2_top5_share_effective": 0.5965058236272879,
+  "t2_gini_effective_by_person": 0.5741763727121464,
+  "t2_song": {
+    "records": 26651,
+    "persons": 170,
+    "work_time_missing": 18651,
+    "work_time_year_or_better": 7644,
+    "accepted_composition_place": 450,
+    "loose_event_place_only": 20907,
+    "person_event_time_known_but_work_time_missing": 13870,
+    "both_year_and_accepted_place": 446
+  },
+  "t2_song_author_equal_dated_share": 0.043242977688039134,
+  "t2_song_top5_share_records": 0.391317398971896,
+  "t3": {
+    "candidate_edges": 6094,
+    "candidate_works": 2581,
+    "reviewed_edges": 2479,
+    "accepted_edges": 42,
+    "accept_rate": 0.016942315449778138,
+    "accept_rate_ci": [
+      0.012558585088209456,
+      0.022820876895994456
+    ],
+    "prior_decisions": 1811,
+    "prior_wrong_body_quarantine": 307,
+    "reviewed_by_match_type": {
+      "partial_or_weak_overlap": 2189,
+      "normalized_full_text_exact": 269,
+      "normalized_full_text_containment": 20,
+      "body_unavailable": 1
+    },
+    "reviewed_works": 1657,
+    "accepted_works": 42,
+    "item_level_saved_edges": 77,
+    "item_level_accepted": 42,
+    "residual_batch_rejected": 2402,
+    "works_with_exact_edge": 269,
+    "works_with_exact_edge_accepted": 35,
+    "prior_decision_works_overlap_current": 0
+  },
+  "t3_review_order": {
+    "last_item_level_review_order": 323,
+    "queue_length": 2479,
+    "swept_exact_edges": 234,
+    "swept_exact_after_last_item_decision": 230,
+    "exact_edges_within_reached_range": 39,
+    "exact_within_reached_accepted": 35,
+    "exact_within_reached_left_pending": 4
+  },
+  "t4": {
+    "song_prefill": 4775,
+    "song_low": 6,
+    "tang_prefill": 1165,
+    "tang_low": 7,
+    "tang_active_review": 594,
+    "tang_low_recall_of_active": 0.011784511784511785,
+    "binding_human_decisions_on_gpt": 0,
+    "axis_gpt_vs_human_n": 31,
+    "axis_gpt_vs_human_agree": 18
+  },
+  "t5": {
+    "author_sets": 12595,
+    "accepted_identity": 223,
+    "records_total": 311855,
+    "records_with_accepted_identity_author": 6997,
+    "claims_total": 5,
+    "claims_accepted": 1
+  }
+}

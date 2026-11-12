@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="532.8pt" height="408.22pt" viewBox="0 0 532.8 408.22" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-06T11:20:20.212529</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 408.22 
+L 532.8 408.22 
+L 532.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.92 81.56 
+L 251.28 81.56 
+Q 255.6 81.56 255.6 77.24 
+L 255.6 25.92 
+Q 255.6 21.6 251.28 21.6 
+L 7.92 21.6 
+Q 3.6 21.6 3.6 25.92 
+L 3.6 77.24 
+Q 3.6 81.56 7.92 81.56 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 7.92 157.36 
+L 251.28 157.36 
+Q 255.6 157.36 255.6 153.04 
+L 255.6 101.72 
+Q 255.6 97.4 251.28 97.4 
+L 7.92 97.4 
+Q 3.6 97.4 3.6 101.72 
+L 3.6 153.04 
+Q 3.6 157.36 7.92 157.36 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 7.92 222.66 
+L 251.28 222.66 
+Q 255.6 222.66 255.6 218.34 
+L 255.6 177.52 
+Q 255.6 173.2 251.28 173.2 
+L 7.92 173.2 
+Q 3.6 173.2 3.6 177.52 
+L 3.6 218.34 
+Q 3.6 222.66 7.92 222.66 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 7.92 308.96 
+L 251.28 308.96 
+Q 255.6 308.96 255.6 304.64 
+L 255.6 242.82 
+Q 255.6 238.5 251.28 238.5 
+L 7.92 238.5 
+Q 3.6 238.5 3.6 242.82 
+L 3.6 304.64 
+Q 3.6 308.96 7.92 308.96 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 281.52 71.06 
+L 524.88 71.06 
+Q 529.2 71.06 529.2 66.74 
+L 529.2 25.92 
+Q 529.2 21.6 524.88 21.6 
+L 281.52 21.6 
+Q 277.2 21.6 277.2 25.92 
+L 277.2 66.74 
+Q 277.2 71.06 281.52 71.06 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 281.52 178.36 
+L 524.88 178.36 
+Q 529.2 178.36 529.2 174.04 
+L 529.2 91.22 
+Q 529.2 86.9 524.88 86.9 
+L 281.52 86.9 
+Q 277.2 86.9 277.2 91.22 
+L 277.2 174.04 
+Q 277.2 178.36 281.52 178.36 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 281.52 254.16 
+L 389.88 254.16 
+Q 394.2 254.16 394.2 249.84 
+L 394.2 198.52 
+Q 394.2 194.2 389.88 194.2 
+L 281.52 194.2 
+Q 277.2 194.2 277.2 198.52 
+L 277.2 249.84 
+Q 277.2 254.16 281.52 254.16 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 416.52 254.16 
+L 524.88 254.16 
+Q 529.2 254.16 529.2 249.84 
+L 529.2 198.52 
+Q 529.2 194.2 524.88 194.2 
+L 416.52 194.2 
+Q 412.2 194.2 412.2 198.52 
+L 412.2 249.84 
+Q 412.2 254.16 416.52 254.16 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #a9a7a1; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 7.92 404.62 
+L 251.28 404.62 
+Q 255.6 404.62 255.6 400.3 
+L 255.6 338.48 
+Q 255.6 334.16 251.28 334.16 
+L 7.92 334.16 
+Q 3.6 334.16 3.6 338.48 
+L 3.6 400.3 
+Q 3.6 404.62 7.92 404.62 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #2a78d6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 281.52 373.12 
+L 524.88 373.12 
+Q 529.2 373.12 529.2 368.8 
+L 529.2 338.48 
+Q 529.2 334.16 524.88 334.16 
+L 281.52 334.16 
+Q 277.2 334.16 277.2 338.48 
+L 277.2 368.8 
+Q 277.2 373.12 281.52 373.12 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #f3f2ef; stroke: #2a78d6; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 129.6 82.058867 
+Q 129.6 89.480365 129.6 96.007435 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 131.2 92.807435 
+L 129.6 96.007435 
+L 128 92.807435 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 129.6 157.858867 
+Q 129.6 165.280365 129.6 171.807435 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 131.2 168.607435 
+L 129.6 171.807435 
+L 128 168.607435 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 129.6 223.158867 
+Q 129.6 230.580365 129.6 237.107435 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 131.2 233.907435 
+L 129.6 237.107435 
+L 128 233.907435 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 403.2 71.558867 
+Q 403.2 78.980365 403.2 85.507435 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 404.8 82.307435 
+L 403.2 85.507435 
+L 401.6 82.307435 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 256.087793 127.498561 
+Q 266.400354 130.005086 275.843791 132.300366 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 273.112208 129.989857 
+L 275.843791 132.300366 
+L 272.356433 133.099327 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 470.7 178.858867 
+Q 470.7 186.280365 470.7 192.807435 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 472.3 189.607435 
+L 470.7 192.807435 
+L 469.1 189.607435 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 394.696582 224.18 
+Q 403.198303 224.18 410.805597 224.18 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 407.605597 222.58 
+L 410.805597 224.18 
+L 407.605597 225.78 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 129.6 309.461416 
+Q 129.6 321.561973 129.6 332.768104 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 131.2 329.568104 
+L 129.6 332.768104 
+L 128 329.568104 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 266.89834 353.64 
+Q 271.798922 353.64 275.805077 353.64 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 272.605077 352.04 
+L 275.805077 353.64 
+L 272.605077 355.24 
+z
+" clip-path="url(#p06f8dea7ec)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 255.6 197.93 
+L 266.4 197.93 
+L 266.4 353.64 
+" clip-path="url(#p06f8dea7ec)" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="3.6" y="11.194062" transform="rotate(-0 3.6 11.194062)">Poem-level linkage</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="277.2" y="11.194062" transform="rotate(-0 277.2 11.194062)">Textual measurement</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="10.08" y="34.874687" transform="rotate(-0 10.08 34.874687)">Database snapshot</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 49.531953)">16,701 Tang poems</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 59.833203)">11,885 with a confirmed author</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 70.091094)">10,142 by poets with exile episodes</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="10.08" y="110.674687" transform="rotate(-0 10.08 110.674687)">Written during exile</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 125.375312)">1,202 poems, 25 poets</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 135.633203)">dated precisely 325 · by annual proxy 849</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 145.934453)">other 28</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="10.08" y="186.474687" transform="rotate(-0 10.08 186.474687)">Linked to records</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 201.131953)">composition year 1,051</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 211.433203)">exile episode 1,133 · coordinates 685</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="10.08" y="251.878281" transform="rotate(-0 10.08 251.878281)">Place of writing vs exile seat</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 266.563203)">700 classifiable (18 poets, 19 episodes)</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 276.821094)">seat 437 · elsewhere 215 · Chang'an 48</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 287.245391)">not classifiable 501: no reviewed place 415,</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 297.503281)">no episode 68, unmapped seat 15, coarse place 3</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="283.68" y="34.874687" transform="rotate(-0 283.68 34.874687)">Poem texts</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 49.575312)">chinese-poetry corpus,</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 59.876562)">matched to records by text hash</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="283.68" y="100.174687" transform="rotate(-0 283.68 100.174687)">Five-axis annotation</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 114.875312)">1,201 poems: court, landscape, temple,</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 125.133203)">route, temporal void</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 135.514141)">qwen3.5:27b first pass</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 145.772031)">→ gpt-5.6-terra poem-by-poem review</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 156.073281)">→ claude-sonnet-5 second review of</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 166.454219)">   medium-confidence positions</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="283.68" y="207.474687" transform="rotate(-0 283.68 207.474687)">Word lists</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 222.175312)">exchange titles,</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 232.599609)">self-naming, capital-city,</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(283.68 243.023906)">return, dwelling, grief</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="418.68" y="207.474687" transform="rotate(-0 418.68 207.474687)">Validation</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(418.68 222.175312)">blind, 50 poems: 247/247</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(418.68 232.433203)">hard cases: 265/277</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(418.68 242.691094)">(κ = 0.91)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="10.08" y="347.434687" transform="rotate(-0 10.08 347.434687)">Place and phase comparisons</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 362.135312)">Seat vs elsewhere: 538–549 poems, 13 poets</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 372.393203)">Arrival proxy vs en route: 142–147 poems, 10 poets</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 382.694453)">Per year at the seat: 386–392 poems, 7 poets</text>
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; fill: #52514e" transform="translate(10.08 392.995703)">Phase model: 363–379 poems, 10 poets</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="283.68" y="347.434687" transform="rotate(-0 283.68 347.434687)">All dated exile poems</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.5px; font-family: 'Microsoft JhengHei', 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="283.68" y="362.091953" transform="rotate(-0 283.68 362.091953)">Per year: 910–929 poems, 16 poets</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p06f8dea7ec">
+   <rect x="0" y="0" width="532.8" height="408.22"/>
+  </clipPath>
+ </defs>
+</svg>

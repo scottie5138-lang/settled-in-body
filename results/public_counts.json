@@ -1,0 +1,30 @@
+{
+ "works": 1201,
+ "stage_counts": {
+  "capital": 48,
+  "coarse": 3,
+  "destination": 437,
+  "destination_unmapped": 15,
+  "elsewhere": 215,
+  "no_episode": 68,
+  "no_reviewed_place": 415
+ },
+ "seat_poets": 13,
+ "works_four_or_more_years": 198,
+ "works_four_or_more_years_proxy_dated": 196,
+ "blind_sample_works": 50,
+ "phase_poets": {
+  "arrival year": 10,
+  "en route": 10,
+  "settled +1": 2,
+  "settled +2-3": 4,
+  "settled +4 or more": 1
+ },
+ "phase_top_poet_share": {
+  "arrival year": 0.342857,
+  "en route": 0.350649,
+  "settled +1": 0.982143,
+  "settled +2-3": 0.916667,
+  "settled +4 or more": 1.0
+ }
+}

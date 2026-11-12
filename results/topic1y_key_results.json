@@ -1,0 +1,17 @@
+{
+  "time_distance_correlation": {
+    "works": 685,
+    "poets": 19,
+    "spearman_pooled": 0.3643951228079677,
+    "pearson_within_poet": 0.3400387376560349
+  },
+  "poets_with_3plus_years": [
+    "劉禹錫",
+    "宋之問",
+    "岑參",
+    "張說",
+    "柳宗元",
+    "白居易",
+    "韓偓"
+  ]
+}

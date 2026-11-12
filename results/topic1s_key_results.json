@@ -1,0 +1,12 @@
+{
+  "seed": 20261101,
+  "bootstrap_attempted": 9999,
+  "anchor_episodes": 13,
+  "nonexchange_anchor_episodes": 13,
+  "unchanged_anchor_episodes": 13,
+  "shifted_anchor_episodes": 0,
+  "missing_nonexchange_anchor_episodes": 0,
+  "original_next_year_all_poems": 71,
+  "original_next_year_bai_poems": 55,
+  "main_coding": "topic1z_work_phase.parquet: stage_adj"
+}

@@ -1,0 +1,4 @@
+﻿variant,outcome,term,works,poets,slope,ci_low,ci_high,boot_p,bootstrap_attempted,bootstrap_valid
+"original anchor, full sample",title_exchange,arrival year vs en route,147,10,0.33458429527953637,0.03142422876921293,0.5086132694087934,0.024,9999,9999
+"original anchor, alternative-anchor episodes",title_exchange,arrival year vs en route,147,10,0.33458429527953637,0.03142422876921293,0.5086132694087934,0.024,9999,9999
+nonexchange anchor,title_exchange,arrival year vs en route,147,10,0.33458429527953637,0.03142422876921293,0.5086132694087934,0.024,9999,9999

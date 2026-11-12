@@ -1,0 +1,176 @@
+﻿where,claim,computed,printed,matches,source_file
+abstract,poems by poets with exile episodes,10142.0,10142.0,True,results/key_results.json
+abstract,confirmed exile-period poems,1202.0,1202.0,True,results/key_results.json
+abstract,annotated poems,1201.0,1201.0,True,results/topic1x_key_results.json
+abstract,poets,25.0,25.0,True,results/topic1x_key_results.json
+abstract,classifiable poems,700.0,700.0,True,results/public_counts.json
+abstract,blind determinate comparisons in agreement,247.0,247.0,True,results/topic1_blind50_validation.csv
+abstract,blind sample poems,50.0,50.0,True,results/public_counts.json
+abstract,exchange title contrast (pp),33.45842952795362,33.0,True,results/topic1w_within_poet_contrasts.csv
+abstract,exile self-naming annual change at seat (pp),-3.2889444064623103,-3.0,True,results/topic1w_within_poet_contrasts.csv
+abstract,court seat contrast (pp),1.2422832468261802,1.0,True,results/topic1w_within_poet_contrasts.csv
+abstract,court seat CI low (pp),-10.82474318177297,-11.0,True,results/topic1w_within_poet_contrasts.csv
+abstract,court seat CI high (pp),11.62949564999811,12.0,True,results/topic1w_within_poet_contrasts.csv
+abstract,"route contrast at the seat, evidence-adjusted (pp)",-19.80865973320683,-20.0,True,results/topic1z_destination_robustness.csv
+abstract,temple next-year estimate rests on Bai Juyi: his share of determinate poems >= 0.95,1.0,1.0,True,results/topic1s_temple_phase_coverage.csv
+full text,Tang corpus: source_records,16701.0,16701.0,True,results/key_results.json
+full text,Tang corpus: accepted_binding,11885.0,11885.0,True,results/key_results.json
+full text,Tang corpus: effective,1202.0,1202.0,True,results/key_results.json
+full text,Tang corpus: precise,325.0,325.0,True,results/key_results.json
+full text,Tang corpus: proxy,849.0,849.0,True,results/key_results.json
+full text,Tang corpus: effective_neither_flag,28.0,28.0,True,results/key_results.json
+full text,poems by poets with exile episodes,10142.0,10142.0,True,results/key_results.json
+full text,biography / confirmed corpus ratio,8.437603993344426,8.4,True,results/key_results.json
+full text,capital words correlation with first exile year,-0.6053760100931911,-0.61,True,results/topic1v_shang_period_poet_level.csv
+full text,exchange title alternative-anchor contrast (pp),33.45842952795363,33.0,True,results/topic1s_arrival_exchange_sensitivity.csv
+full text,coverage: episodes,28.0,28.0,True,results/topic1x_key_results.json
+full text,coverage: with_year,1051.0,1051.0,True,results/topic1x_key_results.json
+full text,coverage: with_episode,1133.0,1133.0,True,results/topic1x_key_results.json
+full text,coverage: with_coordinates,685.0,685.0,True,results/topic1x_key_results.json
+full text,corrected place classification: destination,437.0,437.0,True,results/public_counts.json
+full text,corrected place classification: elsewhere,215.0,215.0,True,results/public_counts.json
+full text,corrected place classification: capital,48.0,48.0,True,results/public_counts.json
+full text,corrected place classification: no_reviewed_place,415.0,415.0,True,results/public_counts.json
+full text,corrected place classification: no_episode,68.0,68.0,True,results/public_counts.json
+full text,corrected place classification: destination_unmapped,15.0,15.0,True,results/public_counts.json
+full text,corrected place classification: coarse,3.0,3.0,True,results/public_counts.json
+full text,unclassifiable place,501.0,501.0,True,results/public_counts.json
+full text,mapped destinations: crosswalk_name,9.0,9.0,True,results/topic1z_destination_map.csv
+full text,mapped destinations: admin_code_inference,9.0,9.0,True,results/topic1z_destination_map.csv
+full text,mapped destinations: unmapped,2.0,2.0,True,results/topic1z_destination_map.csv
+full text,classifiable poets,18.0,18.0,True,results/topic1z_key_results.json
+full text,classifiable episodes,19.0,19.0,True,results/topic1z_key_results.json
+full text,blind kappa,1.0,1.0,True,results/topic1_blind50_validation.csv
+full text,blind positions with no determinate model answer,3.0,3.0,True,results/topic1_blind50_validation.csv
+full text,targeted positions,309.0,309.0,True,results/key_results.json
+full text,targeted agreement percent,95.66787003610109,95.7,True,results/key_results.json
+full text,targeted kappa,0.9134194623879975,0.91,True,results/key_results.json
+full text,"lexicon hit, matching axis: lex_capital",74.07407407407408,74.1,True,results/topic1z_lexicon_axis_agreement.csv
+full text,"lexicon hit, matching axis: lex_road",79.46768060836501,79.5,True,results/topic1z_lexicon_axis_agreement.csv
+full text,"lexicon hit, matching axis: lex_temple",89.8876404494382,89.9,True,results/topic1z_lexicon_axis_agreement.csv
+full text,"lexicon miss, matching axis: lex_capital",34.67289719626168,34.7,True,results/topic1z_lexicon_axis_agreement.csv
+full text,"lexicon miss, matching axis: lex_road",43.982494529540475,44.0,True,results/topic1z_lexicon_axis_agreement.csv
+full text,"lexicon miss, matching axis: lex_temple",17.24770642201835,17.2,True,results/topic1z_lexicon_axis_agreement.csv
+full text,poets in contrast: seat vs elsewhere,13.0,13.0,True,results/topic1w_within_poet_contrasts.csv
+full text,poets in contrast: arrival year vs en route,10.0,10.0,True,results/topic1w_within_poet_contrasts.csv
+full text,"poets in contrast: per year, poems at the seat",7.0,7.0,True,results/topic1w_within_poet_contrasts.csv
+full text,"poets in contrast: per year, all dated poems",16.0,16.0,True,results/topic1w_within_poet_contrasts.csv
+full text,route contrast: as coded in 06,-14.81282104949181,-14.8,True,results/topic1z_destination_robustness.csv
+full text,route contrast: evidence-adjusted seats,-19.80865973320683,-19.8,True,results/topic1z_destination_robustness.csv
+full text,route contrast: crosswalk-verified destinations only,-11.4834055098131,-11.5,True,results/topic1z_destination_robustness.csv
+full text,route leave-one-out smallest decline,-17.53092610187465,-17.5,True,results/topic1z_destination_leave_one_poet_out.csv
+full text,route leave-one-out largest decline,-25.544518985163663,-25.5,True,results/topic1z_destination_leave_one_poet_out.csv
+full text,exchange contrast one decimal,33.45842952795362,33.5,True,results/topic1w_within_poet_contrasts.csv
+full text,exchange Holm p,0.3498250874562718,0.35,True,results/topic1w_within_poet_contrasts.csv
+full text,self-naming Holm p,0.2638680659670165,0.264,True,results/topic1w_within_poet_contrasts.csv
+full text,alternative anchor count,13.0,13.0,True,results/topic1s_key_results.json
+full text,unchanged anchors,13.0,13.0,True,results/topic1s_key_results.json
+full text,alternative arrival contrast: slope,33.45842952795363,33.5,True,results/topic1s_arrival_exchange_sensitivity.csv
+full text,alternative arrival contrast: ci_low,3.14242287692129,3.1,True,results/topic1s_arrival_exchange_sensitivity.csv
+full text,alternative arrival contrast: ci_high,50.86132694087934,50.9,True,results/topic1s_arrival_exchange_sensitivity.csv
+full text,alternative arrival poems,147.0,147.0,True,results/topic1s_arrival_exchange_sensitivity.csv
+full text,"next year, all poems",71.0,71.0,True,results/topic1s_key_results.json
+full text,"next-year phase sample, all poems",56.0,56.0,True,results/topic1s_temple_phase_coverage.csv
+full text,"next-year phase sample, Bai Juyi poems",55.0,55.0,True,results/topic1s_temple_phase_coverage.csv
+full text,"next-year phase sample, without Bai Juyi",1.0,1.0,True,results/topic1s_temple_phase_coverage.csv
+full text,"next-year phase sample, determinate temple labels",54.0,54.0,True,results/topic1s_temple_phase_coverage.csv
+full text,"next-year phase sample, Bai Juyi determinate temple labels",53.0,53.0,True,results/topic1s_temple_phase_coverage.csv
+full text,temple next-year point estimate,24.45431931458275,24.5,True,results/topic1z_phase_within_poet.csv
+full text,temple next-year length-controlled,24.078412082365432,24.1,True,results/topic1z_phase_within_poet_length_controlled.csv
+full text,self-naming annual: slope,-3.2889444064623103,-3.3,True,results/topic1w_within_poet_contrasts.csv
+full text,self-naming annual: ci_low,-5.24568819926053,-5.2,True,results/topic1w_within_poet_contrasts.csv
+full text,self-naming annual: ci_high,-1.53562401749129,-1.5,True,results/topic1w_within_poet_contrasts.csv
+full text,court at seat: slope,1.2422832468261802,1.2,True,results/topic1w_within_poet_contrasts.csv
+full text,court at seat: ci_low,-10.82474318177297,-10.8,True,results/topic1w_within_poet_contrasts.csv
+full text,court at seat: ci_high,11.62949564999811,11.6,True,results/topic1w_within_poet_contrasts.csv
+full text,court on arrival: slope,-5.046573311593519,-5.0,True,results/topic1w_within_poet_contrasts.csv
+full text,court on arrival: ci_low,-27.18071132504433,-27.2,True,results/topic1w_within_poet_contrasts.csv
+full text,court on arrival: ci_high,4.8914689607628,4.9,True,results/topic1w_within_poet_contrasts.csv
+full text,return vocabulary at seat: slope,-1.61881624350452,-1.6,True,results/topic1w_within_poet_contrasts.csv
+full text,return vocabulary at seat: ci_low,-12.64816887349787,-12.6,True,results/topic1w_within_poet_contrasts.csv
+full text,return vocabulary at seat: ci_high,12.74765279854177,12.7,True,results/topic1w_within_poet_contrasts.csv
+full text,court annual at seat: slope,-4.80195708088128,-4.8,True,results/topic1w_within_poet_contrasts.csv
+full text,court annual at seat: ci_low,-9.134198524477801,-9.1,True,results/topic1w_within_poet_contrasts.csv
+full text,court annual at seat: ci_high,2.4704945320044898,2.5,True,results/topic1w_within_poet_contrasts.csv
+full text,court poems carrying exchanges: destination,34.66666666666667,35.0,True,results/topic1w_court_carriers_and_ambivalence.csv
+full text,court poems carrying exchanges: elsewhere,24.65753424657534,25.0,True,results/topic1w_court_carriers_and_ambivalence.csv
+full text,court poems carrying exchanges: capital,26.08695652173913,26.0,True,results/topic1w_court_carriers_and_ambivalence.csv
+full text,return and dwelling co-occurrence: slope,2.25934963833767,2.3,True,results/topic1w_dwelling_homeward_association.csv
+full text,return and dwelling co-occurrence: ci_low,-3.1627550918217904,-3.2,True,results/topic1w_dwelling_homeward_association.csv
+full text,return and dwelling co-occurrence: ci_high,8.53373937320435,8.5,True,results/topic1w_dwelling_homeward_association.csv
+full text,capital correlation p,0.0026,0.003,True,results/topic1v_shang_period_poet_level.csv
+full text,capital words in early Tang,20.0074636477068,20.0,True,results/topic1v_shang_period_poet_level.csv
+full text,capital words in high Tang,10.9163133609462,11.0,True,results/topic1v_shang_period_poet_level.csv
+full text,capital words in mid Tang,6.5117898437239194,7.0,True,results/topic1v_shang_period_poet_level.csv
+full text,capital words in late Tang,4.1181180097079,4.0,True,results/topic1v_shang_period_poet_level.csv
+full text,poets in early Tang,3.0,3.0,True,results/topic1v_shang_period_poet_level.csv
+full text,poets in high Tang,8.0,8.0,True,results/topic1v_shang_period_poet_level.csv
+full text,poets in mid Tang,7.0,7.0,True,results/topic1v_shang_period_poet_level.csv
+full text,poets in late Tang,4.0,4.0,True,results/topic1v_shang_period_poet_level.csv
+full text,court axis correlation,-0.4712880527174095,-0.47,True,results/topic1v_shang_period_poet_level.csv
+full text,exchange titles correlation,0.4277236108695817,0.43,True,results/topic1v_shang_period_poet_level.csv
+full text,exchange titles correlation p,0.051,0.051,True,results/topic1v_shang_period_poet_level.csv
+full text,exchange titles before 749,7.589267419278809,8.0,True,results/topic1v_shang_cohort_749.csv
+full text,exchange titles from 749,24.580399855904687,25.0,True,results/topic1v_shang_cohort_749.csv
+full text,exchange titles poets before 749,5.0,5.0,True,results/topic1v_shang_cohort_749.csv
+full text,exchange titles poets from 749,17.0,17.0,True,results/topic1v_shang_cohort_749.csv
+full text,exchange titles correlation from 749,-0.0442807442770047,-0.04,True,results/topic1v_shang_cohort_749.csv
+full text,Bai Jiangzhou poems,206.0,206.0,True,results/topic1y_poet_year_profiles.csv
+full text,Bai route year 0,55.55555555555556,55.6,True,results/topic1y_poet_year_profiles.csv
+full text,Bai route year 3,31.25,31.2,True,results/topic1y_poet_year_profiles.csv
+full text,Bai temple year 0,18.032786885245898,18.0,True,results/topic1y_poet_year_profiles.csv
+full text,Bai temple year 1,30.18867924528302,30.2,True,results/topic1y_poet_year_profiles.csv
+full text,Bai temple year 2,34.210526315789465,34.2,True,results/topic1y_poet_year_profiles.csv
+full text,capital words at seat: slope,-3.3167861577183504,-3.3,True,results/topic1w_within_poet_contrasts.csv
+full text,capital words at seat: ci_low,-9.51338251471576,-9.5,True,results/topic1w_within_poet_contrasts.csv
+full text,capital words at seat: ci_high,3.5438031596656496,3.5,True,results/topic1w_within_poet_contrasts.csv
+full text,"court annual, all dated: slope",-3.17865772995712,-3.2,True,results/topic1w_within_poet_contrasts.csv
+full text,"court annual, all dated: ci_low",-6.0409951781027305,-6.0,True,results/topic1w_within_poet_contrasts.csv
+full text,"court annual, all dated: ci_high",0.33253120924398,0.3,True,results/topic1w_within_poet_contrasts.csv
+full text,capital words annual at seat: slope,2.13290882829257,2.1,True,results/topic1w_within_poet_contrasts.csv
+full text,capital words annual at seat: ci_low,0.76601881015852,0.8,True,results/topic1w_within_poet_contrasts.csv
+full text,capital words annual at seat: ci_high,5.75620459076216,5.8,True,results/topic1w_within_poet_contrasts.csv
+full text,grief words at seat: slope,-9.34594702212164,-9.3,True,results/topic1w_within_poet_contrasts.csv
+full text,grief words at seat: ci_low,-19.06450398672984,-19.1,True,results/topic1w_within_poet_contrasts.csv
+full text,grief words at seat: ci_high,0.9269861925949099,0.9,True,results/topic1w_within_poet_contrasts.csv
+full text,grief words annual at seat: slope,-0.55888910720682,-0.6,True,results/topic1w_within_poet_contrasts.csv
+full text,grief words annual at seat: ci_low,-2.7934820154779603,-2.8,True,results/topic1w_within_poet_contrasts.csv
+full text,grief words annual at seat: ci_high,0.70812097609199,0.7,True,results/topic1w_within_poet_contrasts.csv
+full text,dwelling words at seat: slope,3.4282464051179,3.4,True,results/topic1w_within_poet_contrasts.csv
+full text,dwelling words at seat: ci_low,-2.40574409633438,-2.4,True,results/topic1w_within_poet_contrasts.csv
+full text,dwelling words at seat: ci_high,13.37304364743186,13.4,True,results/topic1w_within_poet_contrasts.csv
+full text,self-naming at seat: slope,3.2468811888059097,3.2,True,results/topic1w_within_poet_contrasts.csv
+full text,self-naming at seat: ci_low,-2.2996920705840003,-2.3,True,results/topic1w_within_poet_contrasts.csv
+full text,self-naming at seat: ci_high,7.77003506735281,7.8,True,results/topic1w_within_poet_contrasts.csv
+full text,titles to central officials at seat: slope,1.32130626372489,1.3,True,results/topic1w_within_poet_contrasts.csv
+full text,titles to central officials at seat: ci_low,-4.24419723710274,-4.2,True,results/topic1w_within_poet_contrasts.csv
+full text,titles to central officials at seat: ci_high,6.35317359200663,6.4,True,results/topic1w_within_poet_contrasts.csv
+full text,capital words annual at seat: Holm p,0.1429285357321339,0.143,True,results/topic1w_within_poet_contrasts.csv
+full text,dwelling words higher at seat: poets,7.0,7.0,True,results/topic1w_poet_direction_seat.csv
+full text,"dwelling words, poets compared",7.0,7.0,True,results/topic1w_poet_direction_seat.csv
+full text,"leave one poet out, exchange titles, arrival-proxy year vs en route: min",16.16500094163793,16.2,True,results/topic1r_key_results.json
+full text,"leave one poet out, exchange titles, arrival-proxy year vs en route: max",41.11137747851977,41.1,True,results/topic1r_key_results.json
+full text,"leave one poet out, exchange titles, arrival-proxy year vs en route: without Bai Juyi",34.05925989609229,34.1,True,results/topic1r_key_results.json
+full text,"leave one poet out, exile self-naming, per year at the seat: min",-4.053427345578268,-4.1,True,results/topic1r_key_results.json
+full text,"leave one poet out, exile self-naming, per year at the seat: max",-2.4035836095717853,-2.4,True,results/topic1r_key_results.json
+full text,"leave one poet out, exile self-naming, per year at the seat: without Bai Juyi",-3.3243952383786435,-3.3,True,results/topic1r_key_results.json
+full text,exchange titles raw share: capital,31.25,31.0,True,results/topic1w_rates_by_phase.csv
+full text,exchange titles raw share: en route,6.49350649350649,6.0,True,results/topic1w_rates_by_phase.csv
+full text,exchange titles raw share: arrival year,28.40909090909091,28.0,True,results/topic1w_rates_by_phase.csv
+full text,exchange titles at seat: slope,18.13305455790224,18.1,True,results/topic1w_within_poet_contrasts.csv
+full text,exchange titles at seat: ci_low,-1.40384793438094,-1.4,True,results/topic1w_within_poet_contrasts.csv
+full text,exchange titles at seat: ci_high,38.19541914519356,38.2,True,results/topic1w_within_poet_contrasts.csv
+full text,exchange titles higher at seat: poets,5.0,5.0,True,results/topic1w_poet_direction_seat.csv
+full text,human present rate: court_institution,40.0,40.0,True,results/topic1_blind50_validation.csv
+full text,human present rate: temple_reclusion,26.0,26.0,True,results/topic1_blind50_validation.csv
+full text,human present rate: landscape,70.0,70.0,True,results/topic1_blind50_validation.csv
+full text,human present rate: route_displacement,60.0,60.0,True,results/topic1_blind50_validation.csv
+full text,human present rate: time_void,50.0,50.0,True,results/topic1_blind50_validation.csv
+full text,hard cases determinate,277.0,277.0,True,results/topic1_targeted309_confusion.csv
+full text,hard cases agreed,265.0,265.0,True,results/topic1_targeted309_confusion.csv
+full text,medium-confidence positions,20.0,20.0,True,results/key_results.json
+full text,medium-confidence model disagreements,13.0,13.0,True,results/key_results.json
+full text,first-pass candidates matching reviewer,18.0,18.0,True,results/topic4_axis_gpt_confidence_vs_human.csv
+full text,first-pass candidates checked,31.0,31.0,True,results/topic4_axis_gpt_confidence_vs_human.csv
+full text,poems four or more years into exile,198.0,198.0,True,results/public_counts.json
+full text,of which annual-proxy dated,196.0,196.0,True,results/public_counts.json
